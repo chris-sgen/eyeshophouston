@@ -1,0 +1,546 @@
+{
+  "what": "Unofficial redesign preview of www.eyeshophouston.com. Not operated by, affiliated with or endorsed by Eye Shop.",
+  "preview": "https://chris-sgen.github.io/eyeshophouston/",
+  "liveSite": "https://www.eyeshophouston.com/",
+  "generated": "2026-10-21T07:35:27.476Z",
+  "snapshot": {
+    "pagesReadUtc": {
+      "first": "2026-10-20T23:37:41.876Z",
+      "last": "2026-10-20T23:45:14.228Z",
+      "addresses": 150
+    },
+    "picturesDownloadedByUtc": "2026-10-20T23:53:24.324Z",
+    "browserPassOverTheLiveSiteUtc": {
+      "from": "2026-10-21T00:46:50.362Z",
+      "to": "2026-10-21T01:36:20.744Z"
+    }
+  },
+  "pages": 148,
+  "files": 659,
+  "hardening": {
+    "robots": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+    "robotsTags": 148,
+    "noReferrerTags": 148,
+    "jsonLdBlocksRemoved": 1195,
+    "linkPreviewPictureTagsRemoved": 296,
+    "ogUrlRewritten": 148,
+    "siteNameRewritten": 148,
+    "descriptionsCarryingTheDisclosure": 148,
+    "pageDescriptionsReplaced": {
+      "promisedAnOnlineForm": [
+        "/contact-us/appointment-request-form/",
+        "/contact-us/contact-form/",
+        "/contact-us/",
+        "/contact-us/patient-registration-form/"
+      ],
+      "placedTheClinicElsewhere": [
+        "/location/west-houston-eye-2/"
+      ]
+    },
+    "linkCardTitlesMarked": 148,
+    "iconLinksRemoved": 296,
+    "practiceFormsInert": 3,
+    "guardControlsAdded": 6,
+    "submitButtonsDisabled": 3,
+    "formNotices": 3,
+    "formPageNotices": 3,
+    "boxesForDirectionsNotOffered": [
+      {
+        "page": "/hablamos-espanol-doctor-de-los-ojos-en-west-houston-tx/",
+        "destinationOnTheLiveSite": "West Houston Eye 10260 Westheimer Rd, Ste 550, Houston, Texas 77042"
+      },
+      {
+        "page": "/hablamos-espanol-doctor-de-los-ojos-en-west-houston-tx/monturas-de-diseno-en-west-houston-tx/",
+        "destinationOnTheLiveSite": "West Houston Eye 10260 Westheimer Rd, Ste 550, Houston, Texas 77042"
+      }
+    ],
+    "photographsOfThePracticesPeopleNotShown": {
+      "portraits": {
+        "doctors": 4,
+        "staff": 5,
+        "places": 54,
+        "initialsTiles": 54
+      },
+      "groupPhotographs": [
+        {
+          "page": "/hablamos-espanol-doctor-de-los-ojos-en-west-houston-tx/oculista-de-lentes-de-contacto-esclerales-en-west-houston-tx/",
+          "place": "the picture of a card"
+        },
+        {
+          "page": "/hablamos-espanol-doctor-de-los-ojos-en-west-houston-tx/oculista-de-lentes-de-contacto-esclerales-en-west-houston-tx/",
+          "place": "the picture of a card"
+        },
+        {
+          "page": "/hablamos-espanol-doctor-de-los-ojos-en-west-houston-tx/oculista-de-lentes-de-contacto-esclerales-en-west-houston-tx/",
+          "place": "the picture of a card"
+        },
+        {
+          "page": "/",
+          "place": "a slide of the opening"
+        },
+        {
+          "page": "/",
+          "place": "the picture of the welcome band"
+        }
+      ],
+      "photographsOfEyeDoctorsWithPatients": [
+        {
+          "page": "/eye-care-services/eye-exams/",
+          "place": "the picture of a card that leads to /eye-care-services/eye-exams/pediatric-eye-exams/"
+        },
+        {
+          "page": "/eye-care-services/eye-exams/",
+          "place": "a figure in the text"
+        },
+        {
+          "page": "/eye-care-services/eye-exams/pediatric-eye-exams/",
+          "place": "the picture at the head of the page"
+        },
+        {
+          "page": "/eye-care-services/",
+          "place": "the picture of a card that leads to /eye-care-services/eye-exams/"
+        },
+        {
+          "page": "/eye-care-services/",
+          "place": "the picture at the head of the page"
+        }
+      ],
+      "iconTiles": 2,
+      "pagesWhoseHeadNowHasNoPicture": [
+        "/eye-care-services/eye-exams/pediatric-eye-exams/",
+        "/eye-care-services/"
+      ]
+    },
+    "filmsOfAVideoSiteNotShown": [
+      {
+        "page": "/hablamos-espanol-doctor-de-los-ojos-en-west-houston-tx/emergencias-de-los-ojos-emergencia-oculares-en-west-houston-tx/",
+        "id": "zjC_-RrncBQ",
+        "still": "none"
+      },
+      {
+        "page": "/hablamos-espanol-doctor-de-los-ojos-en-west-houston-tx/examenes-del-ojo-examen-ocular-pediatricos-en-west-houston-tx/",
+        "id": "q4B0eApCzII",
+        "still": "none"
+      }
+    ],
+    "notesInSpanish": {
+      "notes": 5,
+      "headNotes": [
+        "/hablamos-espanol-doctor-de-los-ojos-en-west-houston-tx/"
+      ]
+    },
+    "liveTextNotes": {
+      "pages": [
+        "/disclaimer/",
+        "/privacy-policy/",
+        "/website-accessibility-policy/",
+        "/contact-us/"
+      ]
+    },
+    "linksToTheFormerWebAddressNowToThisCopy": {
+      "host": "www.westhoustoneye.com",
+      "links": 8,
+      "onTheLivePages": 10,
+      "measured": "2026-10-21T06:47:22.009Z",
+      "addresses": [
+        {
+          "url": "https://www.westhoustoneye.com/eye-care-services/management-of-ocular-diseases/",
+          "status": 301,
+          "forwardsTo": "https://eyeshophouston.com/eye-care-services/management-of-ocular-diseases/"
+        },
+        {
+          "url": "https://www.westhoustoneye.com/eye-care-services/eye-conditions/",
+          "status": 301,
+          "forwardsTo": "https://eyeshophouston.com/eye-care-services/eye-conditions/"
+        },
+        {
+          "url": "https://www.westhoustoneye.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/",
+          "status": 301,
+          "forwardsTo": "https://eyeshophouston.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/"
+        },
+        {
+          "url": "https://www.westhoustoneye.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/",
+          "status": 301,
+          "forwardsTo": "https://eyeshophouston.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/"
+        },
+        {
+          "url": "https://www.westhoustoneye.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+          "status": 301,
+          "forwardsTo": "https://eyeshophouston.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/"
+        },
+        {
+          "url": "https://www.westhoustoneye.com/our-eye-doctors/",
+          "status": 301,
+          "forwardsTo": "https://eyeshophouston.com/our-eye-doctors/"
+        },
+        {
+          "url": "https://www.westhoustoneye.com/contact-us/appointment-request-form/",
+          "status": 301,
+          "forwardsTo": "https://eyeshophouston.com/contact-us/appointment-request-form/"
+        }
+      ]
+    },
+    "linksToTheOtherNumberNowWords": [
+      {
+        "page": "/hablamos-espanol-doctor-de-los-ojos-en-west-houston-tx/emergencias-de-los-ojos-emergencia-oculares-en-west-houston-tx/",
+        "words": "llámenos"
+      },
+      {
+        "page": "/hablamos-espanol-doctor-de-los-ojos-en-west-houston-tx/",
+        "words": "713-677-2044"
+      }
+    ],
+    "descriptionsOfPicturesEmptied": [
+      {
+        "page": "/hablamos-espanol-doctor-de-los-ojos-en-west-houston-tx/emergencias-de-los-ojos-emergencia-oculares-en-west-houston-tx/",
+        "alt": "Emergencias oculares en Plano, TX"
+      }
+    ],
+    "mapFramesWithNoReferrer": {
+      "frames": 148,
+      "alreadySoInThePrivateBuild": 148
+    },
+    "canonicalRemoved": [
+      "/404.html",
+      "/search/"
+    ],
+    "canonicalAsTheLivePageNamesIt": 3,
+    "searchIndexEntriesReducedToTitleSectionAndMenuNames": [
+      "/contact-us/",
+      "/contact-us/appointment-request-form/",
+      "/contact-us/contact-form/",
+      "/contact-us/patient-registration-form/",
+      "/disclaimer/",
+      "/hablamos-espanol-doctor-de-los-ojos-en-west-houston-tx/",
+      "/privacy-policy/",
+      "/website-accessibility-policy/"
+    ],
+    "searchIndexFieldsBlanked": [
+      {
+        "page": "/location/west-houston-eye-2/",
+        "field": "the summary"
+      }
+    ],
+    "loopAndSearchIndexAddressesMadeRelativeToThePage": 3,
+    "toolingHelperRemovedFromPages": 147,
+    "scriptsPatchedForAFilmFrame": [
+      "assets/js/site.80cd64f49f.js"
+    ],
+    "commentsTakenOut": {
+      "css": 235,
+      "js": 110
+    },
+    "svgCleaned": [
+      "assets/img/2yc2c0viqxkn0qbc-30f3d40d.svg"
+    ],
+    "aiLabels": {
+      "webp": 66,
+      "mp4": 2
+    },
+    "notShipped": [
+      ".htaccess",
+      "llms.txt",
+      "sitemap.xml",
+      "_redirects"
+    ],
+    "robotsTxt": "the private build's file is replaced by the preview's own (Disallow: /)",
+    "filesNothingNamesNotShipped": 87,
+    "fontLicences": [
+      "assets/fonts/OFL-Merriweather-Sans.txt",
+      "assets/fonts/OFL-Merriweather.txt"
+    ]
+  },
+  "generatedMedia": [
+    {
+      "file": "loop-why",
+      "kind": "loop",
+      "shows": "thin gold-rimmed eyeglasses on a navy linen cloth at the edge of a wooden table, with sunlight that shifts slowly across the cloth and returns (made from one still, used as its first and last frame)",
+      "madeWith": "Higgsfield: kling-video/o3/first-last-frame, from the still still-why (fal.ai: nano-banana-pro)",
+      "files": 5,
+      "pages": [
+        "/"
+      ]
+    },
+    {
+      "file": "still-contacts-alt-1",
+      "kind": "still",
+      "shows": "an open white contact-lens case on a marble counter, with a navy cloth behind it",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 8,
+      "pages": [
+        "/contact-lenses/",
+        "/contact-lenses/bifocal-and-multifocal-contact-lenses/",
+        "/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/",
+        "/contact-lenses/disposable-contacts/",
+        "/contact-lenses/eye-exams-for-contact-lenses/",
+        "/contact-lenses/gas-permeable-gp-contact-lenses/",
+        "/contact-lenses/toric-contact-lenses-for-astigmatism/",
+        "/eye-care-services/contact-lens-exams/hard-to-fit/"
+      ]
+    },
+    {
+      "file": "still-drops-alt-1",
+      "kind": "still",
+      "shows": "drops of water on a pale blue surface",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 4,
+      "pages": [
+        "/autoimmune-disease-and-dry-eye-2023/",
+        "/how-safe-is-it-to-rinse-your-eyes-with-tap-water-2023/",
+        "/winter-dry-eyes-2023/"
+      ]
+    },
+    {
+      "file": "still-exam-alt-1",
+      "kind": "still",
+      "shows": "a round lens in a polished metal rim, close up, against soft warm light",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 12,
+      "pages": [
+        "/10-ways-to-give-your-eyes-some-love-this-valentines-day-2022/",
+        "/eye-care-services/",
+        "/eye-care-services/eye-exams/",
+        "/eye-care-services/protect-your-eyes-the-importance-of-comprehensive-eye-exams-for-those-with-diabetes/",
+        "/eyes-a-window-into-your-health-2023/",
+        "/the-importance-of-having-an-annual-eye-exam-at-tokens-namepractice/"
+      ]
+    },
+    {
+      "file": "still-frames",
+      "kind": "still",
+      "shows": "three pairs of eyeglass frames (tortoiseshell, gold wire and navy) on a pale stone slab, with a navy cloth",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 13,
+      "pages": [
+        "/eyeglasses/",
+        "/eyeglasses/eyeglass-basics/",
+        "/eyeglasses/eyeglass-basics/eyeglass-frames/",
+        "/eyeglasses/eyeglass-basics/womens-eyeglass-frames/",
+        "/eyeglasses/prescription-eyeglasses/",
+        "/eyeglasses/prescription-eyeglasses/eyeglass-frame-materials/",
+        "/eyeglasses/prescription-eyeglasses/frame-maintenance/",
+        "/tag/all-about-vision/"
+      ]
+    },
+    {
+      "file": "still-lens-b-alt-1",
+      "kind": "still",
+      "shows": "two clear eyeglass lenses on white stone, one standing and one lying flat, against a navy wall",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 13,
+      "pages": [
+        "/eyeglasses/eyeglass-basics/",
+        "/eyeglasses/eyeglass-basics/lens-options-for-eyeglasses/",
+        "/eyeglasses/lens-treatments/",
+        "/eyeglasses/lens-treatments/scratch-resistant/",
+        "/eyeglasses/prescription-eyeglasses/",
+        "/eyeglasses/prescription-eyeglasses/bifocal-lenses/",
+        "/eyeglasses/prescription-eyeglasses/caring-for-lenses/",
+        "/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses/",
+        "/eyeglasses/prescription-eyeglasses/polycarbonate-lenses/",
+        "/tag/all-about-vision/"
+      ]
+    },
+    {
+      "file": "still-sun-alt-1",
+      "kind": "still",
+      "shows": "tortoiseshell sunglasses with brown lenses on sand-coloured stone, in the shadow of palm leaves, with a navy cloth",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 13,
+      "pages": [
+        "/eyeglasses/sunglasses/",
+        "/eyeglasses/sunglasses/nonprescription-sunglasses/",
+        "/eyeglasses/sunglasses/performance-and-sport-sunglasses/",
+        "/eyeglasses/sunglasses/prescription-sunglass-treatments/",
+        "/eyeglasses/sunglasses/prescription-sunglasses/",
+        "/eyeglasses/sunglasses/sunglasses-for-kids/",
+        "/tag/all-about-vision/"
+      ]
+    }
+  ],
+  "generatedMediaRemarks": [
+    {
+      "id": "still-why",
+      "remark": "The still itself is not shipped: the home page's navy band shows the loop made from it, with the loop's first frame as the poster."
+    }
+  ],
+  "synthId": "the C2PA manifest of each fal.ai original says \"Applied imperceptible SynthID watermark.\" (a watermark in the picture itself); not tested for in the shipped files",
+  "homePageAdditions": {
+    "serviceLinks": [
+      "Comprehensive Eye Exams",
+      "Eye Condition Treatment",
+      "Eye Disease Management",
+      "Contact Lens Exams",
+      "Eye Emergencies",
+      "LASIK & Refractive Surgery",
+      "Latisse",
+      "Eye Exams For Those With Diabetes"
+    ],
+    "languageLines": 1,
+    "links": [
+      "Testimonials"
+    ],
+    "labels": [
+      "Call 713-977-8464",
+      "Read More"
+    ],
+    "reviewDate": "October 2026"
+  },
+  "verification": {
+    "measured": "on a local server imitating a GitHub Pages project site under the project path",
+    "browser": "Chrome 155",
+    "previewChecksVerdict": "PASS",
+    "pageLoads": 295,
+    "picturesLoaded": 1330,
+    "loopsPlayed": 1,
+    "formTrials": {
+      "forms": 3,
+      "trials": 24,
+      "shipped": 6,
+      "control": 6,
+      "attributes": 6,
+      "guards": 6,
+      "controlsSeen": 6,
+      "enterPressed": 6,
+      "buttonClicked": 6
+    },
+    "search": {
+      "results": 21,
+      "outside": 0
+    },
+    "referencesRead": 31259,
+    "localReferences": 28638,
+    "binaries": {
+      "webp": 487,
+      "mp4": 2,
+      "woff2": 8,
+      "svg": 1,
+      "aiLabels": 68
+    },
+    "selfTest": {
+      "defectsPlanted": 141,
+      "reportsExpected": 163,
+      "reportsGiven": 163,
+      "staticRules": 155,
+      "staticRulesExercised": 142,
+      "staticRulesNotExercised": {
+        "note": "rules of the verifier, which is written for previews of other sites too: 6 are about kinds of content this copy does not have (the forms of a review company, links whose address carries a person's data, links that credit an application to an account), 4 about files the verifier cannot read at all, and 3 about missing or mislabelled files that the self-test does not plant",
+        "rules": [
+          "notes for the review company's forms: not one for each form of the private build",
+          "a note for a form of the review company that does not link to the live page",
+          "a note for a form of the review company outside the head of the page",
+          "a link whose address carries a person's data",
+          "a link that credits an application to the practice's account",
+          "the script cannot be read for comments",
+          "the search index cannot be read",
+          "the search index is not a list of entries",
+          "the font's name records cannot be read",
+          "a font file that does not name its project",
+          "missing (the host would answer an unknown address with its own page)",
+          "the forms of the review company in the private build are not the ones preview-config.mjs names",
+          "missing (run preview-docs.mjs)"
+        ]
+      },
+      "rulesOfTheBrowserPass": 22,
+      "rulesOfTheFormTrials": 12,
+      "rulesOfThePublicAddressPass": 19
+    }
+  },
+  "pictures": {
+    "fromTheLiveSiteByFileName": 145,
+    "fromTheLiveSiteCountingEachVersion": 182,
+    "generatedFiles": 68,
+    "pagesShowingAGeneratedPicture": 39,
+    "pagesThatMustShowNoGeneratedPicture": {
+      "words": [
+        "/team/",
+        "/our-eye-doctors/",
+        "/the-staff/",
+        "/testimonial",
+        "/contact-us/",
+        "/hours-location/",
+        "/location/",
+        "/disclaimer/",
+        "/privacy-policy/",
+        "/website-accessibility-policy/",
+        "/sitemap/",
+        "/insurance/",
+        "/recycling-program/",
+        "/designer-frames/",
+        "/our-featured-brands/",
+        "ray-ban",
+        "dolce",
+        "/transitions-lenses/",
+        "/404",
+        "/whats-new/",
+        "/category/",
+        "/tag/",
+        "/author/",
+        "/template/",
+        "/advanced-technology/",
+        "/eyeglass-guide/"
+      ],
+      "pages": 65,
+      "ofThoseShowingOneOnTheCardOfAnotherPage": [
+        "/tag/all-about-vision/"
+      ]
+    },
+    "notDownloaded": {
+      "namedByLivePagesAndNotFoundOnTheHost": 4,
+      "namedOnlyByStylesheetsOfTheOldPlatform": {
+        "notFound": 3,
+        "refused": 1
+      }
+    }
+  },
+  "linksThatLeaveThisCopy": {
+    "google.com": 444,
+    "facebook.com": 148,
+    "yelp.com": 148,
+    "instagram.com": 148,
+    "ecp.eyeglassguide.com": 8,
+    "eyeshophouston.com": 4,
+    "optos.com": 1,
+    "infantsee.org": 1,
+    "latisse.com": 1,
+    "eyeglassguide.com": 1,
+    "terracycle.com": 1,
+    "get.adobe.com": 1
+  },
+  "privateBuildAudit": {
+    "gate": {
+      "verdict": "NOT-READY",
+      "pass": 22,
+      "fail": [
+        "C05",
+        "C06",
+        "C07",
+        "C16",
+        "C17",
+        "C20",
+        "C22"
+      ],
+      "unproven": 0
+    },
+    "textUnits": {
+      "checked": 5649,
+      "found": 5639,
+      "leftOutWithReason": 10,
+      "missing": 0
+    },
+    "meanRecall": 99.78,
+    "sweep": {
+      "loads": 592,
+      "blocker": 0,
+      "major": 0,
+      "minor": 585,
+      "nit": 8
+    },
+    "decontamination": "CLEAN",
+    "downloadFailures": {
+      "total": 8,
+      "picturesTheLivePagesCannotShowEither": 4,
+      "picturesOfStylesheets": 4
+    }
+  }
+}

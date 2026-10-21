@@ -2,7 +2,7 @@
   "what": "Unofficial redesign preview of www.eyeshophouston.com. Not operated by, affiliated with or endorsed by Eye Shop.",
   "preview": "https://chris-sgen.github.io/eyeshophouston/",
   "liveSite": "https://www.eyeshophouston.com/",
-  "generated": "2026-10-21T07:35:27.476Z",
+  "generated": "2026-10-21T07:44:28.661Z",
   "snapshot": {
     "pagesReadUtc": {
       "first": "2026-10-20T23:37:41.876Z",
@@ -387,7 +387,7 @@
     "reviewDate": "October 2026"
   },
   "verification": {
-    "measured": "on a local server imitating a GitHub Pages project site under the project path",
+    "measured": "on a local server imitating a GitHub Pages project site under the project path, then at the public address",
     "browser": "Chrome 155",
     "previewChecksVerdict": "PASS",
     "pageLoads": 295,
@@ -444,6 +444,43 @@
       "rulesOfTheBrowserPass": 22,
       "rulesOfTheFormTrials": 12,
       "rulesOfThePublicAddressPass": 19
+    },
+    "publicAddress": {
+      "filesIdentical": 655,
+      "filesAsked": 655,
+      "notFound": {
+        "status": 404,
+        "isThePage": true
+      },
+      "withoutSlash": {
+        "page": "10-ways-to-give-your-eyes-some-love-this-valentines-day-2022/",
+        "status": 301,
+        "location": "https://chris-sgen.github.io/eyeshophouston/10-ways-to-give-your-eyes-some-love-this-valentines-day-2022/"
+      },
+      "capitals": {
+        "asked": "10-WAYS-TO-GIVE-YOUR-EYES-SOME-LOVE-THIS-VALENTINES-DAY-2022/",
+        "status": 404
+      },
+      "browserPages": [
+        "/",
+        "/contact-us/",
+        "/contact-us/appointment-request-form/",
+        "/our-eye-doctors/",
+        "/hablamos-espanol-doctor-de-los-ojos-en-west-houston-tx/emergencias-de-los-ojos-emergencia-oculares-en-west-houston-tx/",
+        "/404-page-not-found/",
+        "/eye-care-services/contact-lens-exams/hard-to-fit/"
+      ],
+      "formTrials": {
+        "forms": 3,
+        "trials": 24,
+        "shipped": 6,
+        "control": 6,
+        "attributes": 6,
+        "guards": 6,
+        "controlsSeen": 6,
+        "enterPressed": 6,
+        "buttonClicked": 6
+      }
     }
   },
   "pictures": {
